@@ -34,7 +34,7 @@ public class bai3 {
 		
 	}
 	public static void main(String[] args) {
-		bai3 sp1 = new bai3("iphone", 20000000);
+		bai3 sp1 = new bai3("iphone ", 20000000);
 		System.out.println("Thông tin sản phẩm 1:");
 		sp1.Xuat();
 		bai3 sp2 = new bai3("Samsung", 17000000,15000000);
