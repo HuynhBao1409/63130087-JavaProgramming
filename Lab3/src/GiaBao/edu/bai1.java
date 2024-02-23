@@ -1,3 +1,4 @@
+package GiaBao.edu;
 
 import java.util.*;
 public class bai1 {
